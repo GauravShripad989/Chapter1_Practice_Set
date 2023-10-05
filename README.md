@@ -6,7 +6,7 @@
 <br>
 <h3>Que 2</h3>
 <p>Write a Program to calculate using marks of 
-3 subject</p>
+3 subject CGPA out of 100</p>
 
 <br>
 <h3>Que 3</h3>
